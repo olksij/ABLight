@@ -8,7 +8,8 @@
 ![ThirdScreenshot](https://raw.githubusercontent.com/AlexBesida/ABLight/master/ReadMe/SS3.png)
 
 ## How to get this theme?
-Soon, that theme will be published in Graviton Market, so you will be able to easily get it.
+Theme is published to Graviton Market, so you are able to easily get it.
+Open Graviton Editor > Tools > Market, and then search for ABLight Theme
 
 ## About
 Theme was tested, and adapted for Graviton 1.0.3 (190818)
