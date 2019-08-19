@@ -134,6 +134,11 @@
     padding: 10px;
     background: #FAFAFE;
     border:0px;
+    box-shadow: 0px 2px 25px #05050A20;
+}
+
+.background_window{
+    background:#F0F0F550;
 }
 
 .desactivated.switch {

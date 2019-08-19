@@ -1,11 +1,11 @@
 {
     "name":"ABLight",
-    "version":"1.0.1",
+    "version":"1.0.2",
     "author":"AlexBesida",
     "description":"Description? Coming Soon.. .",
     "folder":"ABLight",
     "type":"custom_theme",
-    "highlight":"highlight",
+    "highlight":"ABLightHighlight",
     "css":["main.css"],
     "colors": {
         "primaryColor": "#FAFAFE",
@@ -22,7 +22,7 @@
         "dropmenu-span-color": "05050a30",
         "titleBar-icons-color":"#05050a",
         "window-radius":"8px",
-        "window-border-color":"#05050A",
+        "window-border-color":"#00000000",
         "notifications-background-color":"#f5f5fa",
         "notifications-window-radius":"5px",
         "shadows":"rgba(5,5,10,0.20)",

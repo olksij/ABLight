@@ -1,0 +1,109 @@
+.cm-s-ABLightHighlight {
+	background-color: var(--editorBackgroundColor) !important;
+	color: #05050A;
+}
+
+.cm-s-ABLightHighlight .CodeMirror-cursor {
+	border-color: #05050A;
+	outline: 0.5px solid #05050A;
+}
+
+.cm-s-ABLightHighlight .CodeMirror-activeline-background {
+	background: #05050A;
+}
+
+.cm-s-ABLightHighlight .CodeMirror-selected {
+	background: #05050A10;
+}
+
+.cm-s-ABLightHighlight .cm-comment {
+	font-style: italic;
+	color: #676b79;
+}
+
+.cm-s-ABLightHighlight .cm-operator {
+	color: #78a;
+}
+
+.cm-s-ABLightHighlight .cm-string {
+	color: #EE5555;
+}
+
+.cm-s-ABLightHighlight .cm-string-2 {
+	color: #fb6;
+}
+
+.cm-s-ABLightHighlight .cm-tag {
+	color: #f26;
+}
+
+.cm-s-ABLightHighlight .cm-meta {
+	color: #b084eb;
+}
+
+.cm-s-ABLightHighlight .cm-number {
+	color: #ffaa55;
+}
+
+.cm-s-ABLightHighlight .cm-atom {
+	color: #f26;
+}
+
+.cm-s-ABLightHighlight .cm-keyword {
+	color: #5af;
+}
+
+.cm-s-ABLightHighlight .cm-variable {
+	color: #f73c91;
+}
+
+.cm-s-ABLightHighlight .cm-variable-2 {
+	color: #ff99cc;
+}
+
+.cm-s-ABLightHighlight .cm-variable-3,
+.cm-s-ABLightHighlight .cm-type {
+	color: #ff99cc;
+}
+
+.cm-s-ABLightHighlight .cm-def {
+	color: #65656a;
+}
+
+.cm-s-ABLightHighlight .cm-property {
+	color: #78a;
+}
+
+.cm-s-ABLightHighlight .cm-unit {
+	color: #ffb86c;
+}
+
+.cm-s-ABLightHighlight .cm-attribute {
+	color: #78a;
+}
+
+.cm-s-ABLightHighlight .CodeMirror-matchingbracket {
+	color: #e6e6e6;
+}
+
+.cm-s-ABLightHighlight .CodeMirror-gutters {
+	background: #f7f7fc;
+	border-right-color: transparent;
+	padding: 0.5rem;
+	box-shadow: -3px 0px 10px #05050A10
+}
+
+.cm-s-ABLightHighlight .CodeMirror-linenumber {
+	color: #05050A50;
+	opacity: 1;
+	background: #f7f7fc;
+	border-top: 4px solid transparent;
+}
+
+
+.cm-s-ABLightHighlight{
+	margin:auto;
+}
+.highlight {
+  color: orange;
+}
