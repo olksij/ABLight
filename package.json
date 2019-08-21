@@ -1,6 +1,6 @@
 {
     "name":"ABLight",
-    "version":"1.0.2",
+    "version":"1.0.3",
     "author":"AlexBesida",
     "description":"Description? Coming Soon.. .",
     "folder":"ABLight",
@@ -16,7 +16,7 @@
         "editor-background-color": "white",
         "white-black": "#05050a",
         "black-white": "#fff",
-        "widget-color": "#05050A20",
+        "widget-color": "#05050A10",
         "buttons-roundness":"5px",
         "dropmenu-background-color": "#fff",
         "dropmenu-span-color": "05050a30",
