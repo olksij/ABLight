@@ -15,6 +15,9 @@ Open Graviton Editor > Tools > Market, and then search for ABLight Theme
 Theme was tested, and adapted for Graviton 1.0.3 (190818)
 
 ## Change log
+### v1.0.4 - 29.08.19
+- Fixed Highlight
+
 ### v1.0.2 - 19.08.19
 - Fixed Highlight
 - Fixed Window Border Color

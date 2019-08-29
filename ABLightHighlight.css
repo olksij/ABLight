@@ -9,11 +9,11 @@
 }
 
 .cm-s-ABLightHighlight .CodeMirror-activeline-background {
-	background: #05050A;
+	background: #FFF;
 }
 
 .cm-s-ABLightHighlight .CodeMirror-selected {
-	background: #05050A10;
+	background: #05050A07;
 }
 
 .cm-s-ABLightHighlight .cm-comment {
